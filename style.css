@@ -1,0 +1,39 @@
+body
+{
+    background-color: #65587F;
+}
+h1{
+    color:greenyellow;
+}
+#points
+{
+    font-size: xx-large;
+    margin-left: 10px;
+    float: left;
+    color: #F18867;
+}
+
+#seconds
+{
+    font-size: xx-large;
+    float: right;
+    margin-right: 90px;
+    color: #F18867;
+}
+
+#draw
+{
+    color:#F18867
+}
+
+#show_sketch
+{
+    
+    background-color:darkgreen;
+    color:#F18867
+    
+}
+p{
+    font-size: medium;
+    color:#F18867
+}
